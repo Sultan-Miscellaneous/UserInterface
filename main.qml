@@ -25,6 +25,5 @@ ApplicationWindow {
     MainForm {
         anchors.fill: parent
     }
-
 }
 
